@@ -1,5 +1,5 @@
 # WIFI PASSWORD 
-showing the password of wifi you are conected
+showing  the passwords of your local Wi-Fi devices. 
 
 ## Getting Started
 
