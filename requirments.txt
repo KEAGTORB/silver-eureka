@@ -1,4 +1,4 @@
-pip install subprocess
-pip install netsh
-pip install wlan
-pip install show
+subprocess
+netsh
+wlan
+show
